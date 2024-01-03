@@ -31,7 +31,7 @@
         "symfony/dependency-injection": "6.4.*",
         "symfony/http-kernel": "6.4.*",
         "symfony/routing": "6.4.*",
-        "symfony/yaml": "6.4.*,
+        "symfony/yaml": "6.4.*",
         "teqneers/ext-application": "dev-master",
         "twig/twig": "~3.8"
     },
